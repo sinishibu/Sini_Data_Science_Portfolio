@@ -13,3 +13,4 @@ This is my first project in which I have explored the following topics:
 
 ## [Project 2: Titanic Data Analysis](https://github.com/sinishibu/IntroToDataScience/blob/master/Titanic.ipynb)
 This is a data analysis project that I implemented on Titanic Data Set as an introductory project.
+![](/images/tit1.png) ![](/images/t2.png)![](/images/t3.png)![](/images/t4.png)![](/images/t5.png)
