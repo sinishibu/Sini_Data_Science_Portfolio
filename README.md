@@ -10,4 +10,4 @@ This is my first project in which I have explored the following topics:
 * Logistic Regression
 * Clustering
 * k-means Clustering
-[](/images/pic1.png)
+[Image Compression](/images/pic1.png)
