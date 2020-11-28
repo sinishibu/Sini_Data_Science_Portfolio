@@ -11,4 +11,5 @@ This is my first project in which I have explored the following topics:
 * Clustering
 * k-means Clustering
 
-## [Project 2: Titanic Data Analysis](
+## [Project 2: Titanic Data Analysis](https://github.com/sinishibu/IntroToDataScience/blob/master/Titanic.ipynb)
+This is a data analysis project that I implemented on Titanic Data Set as an introductory project.
