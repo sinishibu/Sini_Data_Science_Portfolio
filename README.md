@@ -6,8 +6,9 @@ This is my first project in which I have explored the following topics:
 * Linear Regression
 * Multiple Linear Regression
 * Correlation
-* [Picture Compression](/images/pic1.png)
+* [Picture Compression](/images/pic1.png) ![](/images/pic1.png)
 * Logistic Regression
 * Clustering
 * k-means Clustering
+
 
