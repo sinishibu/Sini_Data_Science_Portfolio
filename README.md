@@ -15,5 +15,5 @@ This is my first project in which I have explored the following topics:
 This is a data analysis project that I implemented on Titanic Data Set as an introductory project.
 ![](/images/tit1.png) ![](/images/t2.png) ![](/images/t3.png) ![](/images/t4.png) ![](/images/t5.png)
 
-## [Project 3: Car Resale Project] (https://github.com/sinishibu/IntroToDataScience/blob/master/Car_Resale_Project.ipynb)
+## [Project 3: Car Resale Project](https://github.com/sinishibu/IntroToDataScience/blob/master/Car_Resale_Project.ipynb)
 In this project I have tried to answer many questions based on a car resale data-set.
